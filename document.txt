@@ -1,0 +1,14 @@
+Bug_id: 111
+Title: Send Email button return options not related to sending Email
+ 
+     Severity: Minor
+     Priority: Low
+     Environment: Xiaomi Readme Note 7 Pro Android 11
+    
+     Precondition: Installed the app on the device
+      STR:
+         1. Open the APP;
+         2. Tap “Send Email” button
+        
+     AR: App return different links not related to sending email,
+     ER: [A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1;5F[1;3F[1;9Fe[F[B[3~[[B[B[B[C[C[C[C[C[C[C[C[C[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ae[A[A[D[A[A[C[C[C[C[C[C[C[C[[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
